@@ -1,5 +1,8 @@
 # Exemplo de uso do JFlex
 
+Link para download deste repositório:
+[https://github.com/deborasetton/pcs3616-jflex_example/archive/master.zip](https://github.com/deborasetton/pcs3616-jflex_example/archive/master.zip)
+
 ## Como executar
 
 ```bash
